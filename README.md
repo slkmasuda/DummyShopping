@@ -1,0 +1,2 @@
+# DummyShopping
+テスト用のサイト
